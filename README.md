@@ -14,3 +14,11 @@ start-Server.bat  -- 模拟服务端
 start-Union.bat   -- 玩具
 ```
 
+###客户端
+![3](img-md/tcp-client.png)
+
+###转发
+![3](img-md/tcp-forward.png)
+
+###服务端
+![3](img-md/tcp-server.png)
